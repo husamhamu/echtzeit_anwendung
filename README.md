@@ -2,6 +2,15 @@
 
 Willkommen in meinem Projekt-Portfolio des **Praktikums** an der TU Darmstadt – ein anwendungsorientiertes Laborpraktikum mit Fokus auf **Echtzeitsysteme**, **digitale Motorsteuerung** und **bare-metal STM32-Programmierung** mit **C und Simulink**.
 
+Motoransteuerung: Echtzeitbetrieb der Asynchronmaschine mit PWM-Signalerzeugung und U/f-Kennlinie.
+
+Schnittstellenprogrammierung: Direktes Schreiben von UART- und SPI-Treibern auf Registerebene.
+
+Regelungstechnik: Umsetzung eines digitalen PI-Reglers mit Anti-Windup für stabile Drehzahlregelung.
+
+Signalverarbeitung: Effiziente Steuerung durch Festkommaarithmetik und Sinusinterpolation.
+
+Modellbasierte Entwicklung: Steueralgorithmus in Simulink modelliert und via Embedded Coder auf STM32 übertragen.
 > 🧠 _Technisch tiefgehend: STM32-Mikrocontroller-Programmierung, Echtzeitkommunikation (UART/SPI), PWM-Generierung, PI-Regler, Modellbasierte Entwicklung mit Simulink._
 ![image](https://github.com/user-attachments/assets/af48464a-ecc9-4bcf-a014-559e22d3d686)
 
